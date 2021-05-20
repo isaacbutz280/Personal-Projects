@@ -1,1 +1,7 @@
-## This is a test
+## Scholars Capstone project
+
+This folder contains my work done for my capstone project as a College Park Scholar. I was part of the [Science, Discovery, and the Universe](https://scholars-d8.umd.edu/programs/science-discovery-and-universe) program that focused on topics such as pseudo-science, facts versus fiction, and looking at how ancient civilizations studied space. After three semesters of colloqium, we had to complete a capstone project. For this I decided to take a course, MATH 401: applications of linear algebra, and complete a self-outlined project. I worked with Milan Yazhary and Ryan Ying, two fellow scholars who took the same course.
+
+For the project, the goal was to use a technique called the Massey Method to rank college football teams from the 2019 season. The ranking provides a relative score for eech team based on what other teams they played and the scores of their game. The final rankings are interpreted as "If team A plays team B, the final score will be (Team A score - Team B score)". 
+
+The raw data is contained in `ncaa_football_2019.csv`. Then in the notebook `scholars_data.ipynb`, I walk through how the data was sourced and processed into a better form. The output is `team_scores.csv`. Next, I step through the Massey method and describe the approach more in depth in `massey_method.ipynb`. Lastly, the final rankings are output into `rank.csv`. The grand finale of scholars and capstone is Academic showcase, where our group displayed a poster summarizing our findings. The final poster is displayed in `poster.pdf`.
