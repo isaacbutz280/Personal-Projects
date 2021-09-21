@@ -1,6 +1,6 @@
 # Welcome!
 
-#####  I am Isaac, a junior computer science major with a mathematics minor at the University of Maryland. I currently am working at [Raytheon Technologies](https://www.rtx.com/) as a software engineering intern. This repository is a collection of my work from various courses and passion projects. You can read more on the different sections below, enjoy!
+#####  I am Isaac, a senior computer science major with a mathematics minor at the University of Maryland. I currently am working at [Raytheon Technologies](https://www.rtx.com/) as a software engineering intern. This repository is a collection of my work from various courses and passion projects. You can read more on the different sections below, enjoy!
 ---
 
 ## Linear Algebra
