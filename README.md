@@ -7,9 +7,9 @@
 
 During the Spring 2021 semester I took MATH 401: Applications of linear algebra. During the course I completed weekly projects using iPython and Jupyter notebooks highlighting the different uses of linear algebra. Some cool topics include image compression, game theory, and least squared fitting.
 
-## cpp
+## Rust
 
-This folder contains a collection to some work I have done using `C++`. `C++` is my favorite programming language, so most of my passion projects are done using it.
+This folder contains work I have done using [Rust](https://www.rust-lang.org/). I am a Rustacean and love having fast code without manually managing memory. 
 
 ## Capstone
 
@@ -17,10 +17,7 @@ At the University of Maryland, I am a [College Park Scholar](https://www.scholar
 
 ## Additional work
 
-Some other projects I have been part off...
-
 - A data science tutorial: [Click here](https://isaacbutz280.github.io/CMSC320_final/) for the tutorial itself, or [this link](https://github.com/isaacbutz280/CMSC320_final) leads to the repository if you wish to learn more about the background of the project.
-- More to come soon...
 
 
 Thank you for taking the time to looking through my projects! Feel free to message me thorugh [email](mailto:isaacbutz280@gmail.com) at isaacbutz280@gmail.com if you have any questions, comments, inquiries, or other.
