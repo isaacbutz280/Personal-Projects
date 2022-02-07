@@ -1,1 +1,0 @@
-C:\Users\Isaac\projects\rust\slides\target\debug\main.exe: C:\Users\Isaac\projects\rust\slides\src\bin\main.rs C:\Users\Isaac\projects\rust\slides\src\config.rs C:\Users\Isaac\projects\rust\slides\src\lib.rs C:\Users\Isaac\projects\rust\slides\src\walker.rs
