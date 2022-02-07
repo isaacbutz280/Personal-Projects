@@ -66,7 +66,7 @@ fn replace(
         static ref RE_PAT: Regex = Regex::new(r"[^\d][\d]{1,2}[^\d]").unwrap();
     }
     lazy_static! {
-        static ref RE_VR: Regex = Regex::new(r" \(\d\)").unwrap();
+        static ref RE_VR: Regex = Regex::new(r" \(\d+\)").unwrap();
     }
 
     let operation = &config.operation;
