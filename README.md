@@ -9,7 +9,11 @@ During the Spring 2021 semester I took MATH 401: Applications of linear algebra.
 
 ## Rust
 
-This folder contains work I have done using [Rust](https://www.rust-lang.org/). I am a Rustacean and love having fast code without manually managing memory. 
+This folder contains work I have done using [Rust](https://www.rust-lang.org/). Rust is by far my favorite language, and yes a large part of that is because of Ferris.
+![rustacean-flat-happy](https://user-images.githubusercontent.com/80608235/152718298-5eaeef90-7aa6-4f90-9b97-0f01d1b11e5f.png)
+
+So far I have mostly done command line programs, but I am looking to branch out into GUI's soon!
+ 
 
 ## Capstone
 
