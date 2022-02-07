@@ -1,3 +1,6 @@
 [submodule "Rust/guess_game"]
 	path = Rust/guess_game
 	url = git@github.com:isaacbutz280/Personal-Projects.git
+[submodule "Rust_Projects"]
+	path = Rust_Projects
+	url = git@github.com:isaacbutz280/Rust.git
