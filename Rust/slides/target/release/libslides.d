@@ -1,0 +1,1 @@
+C:\Users\Isaac\projects\rust\slides\target\release\libslides.rlib: C:\Users\Isaac\projects\rust\slides\src\config.rs C:\Users\Isaac\projects\rust\slides\src\lib.rs C:\Users\Isaac\projects\rust\slides\src\walker.rs
