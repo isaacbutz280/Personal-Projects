@@ -11,6 +11,10 @@ During the Spring 2021 semester I took MATH 401: Applications of linear algebra.
 
 At the University of Maryland, I am a [College Park Scholar](https://www.scholars.umd.edu/) in the [Science, Disovery, and the Universe](https://scholars-d8.umd.edu/programs/science-discovery-and-universe) program. At the end of this two year living-learning program, I completed a capstone project to earn my citation. A collection of the work that went into this project, as well as the final presentation poster, can be found in this folder. 
 
+## zDoc
+
+A demo application I created using egui and eframe. This is a prototype for a scheduling app for use in a medical establishment. I 
+
 ## Additional work
 
 - A data science tutorial: [Click here](https://isaacbutz280.github.io/CMSC320_final/) for the tutorial itself, or [this link](https://github.com/isaacbutz280/CMSC320_final) leads to the repository if you wish to learn more about the background of the project.
