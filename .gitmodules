@@ -1,3 +1,6 @@
 [submodule "Rust_Projects"]
 	path = Rust_Projects
 	url = git@github.com:isaacbutz280/Rust.git
+[submodule "zDoc"]
+	path = zDoc
+	url = https://github.com/isaacbutz280/zDoc
